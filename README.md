@@ -1,18 +1,18 @@
-HumHub - Social Network Kit
+SECRETSEX
 ===========================
 
-[![Build Status](https://travis-ci.org/humhub/humhub.svg?branch=master)](https://travis-ci.org/humhub/humhub)
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+[![Build Status](http://secretsex.com.br)](http://secretsex.com.br)
 
-HumHub is a feature rich and highly flexible OpenSource Social Network Kit written in PHP.
+
+A rede social para reservar seu entretenimento erótico.
 
 It's perfect for individual:
 - Social Intranets
-- Enterprise Social Networks
 - Private Social Networks
+-
 
 More information:
-- [Homepage & Demo](http://www.humhub.org)
-- [Documentation & Class Reference](http://www.humhub.org/docs)
-- [Licence](http://www.humhub.org/licences)
+- [SecretSex](http://secretsex.com.br)
+- [Twitter](https://twitter.com/secretsexbr?lang=pt-br)
+
 
